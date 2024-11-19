@@ -1,0 +1,103 @@
+body{
+    background-color: #D1E9F6;
+    font-family: "Montserrat", sans-serif;;
+    
+    }
+  h1{
+    font-family: "Sacramento", cursive;
+    color:#66BFBF ;
+    font-size: 50px;
+    margin: 20px;
+
+  }
+h2{
+    font-family: "Montserrat", sans-serif;
+    color: #66BFBF;
+    font-size: 20px;
+    font-weight: normal;
+    
+
+}
+h3{
+    font-family: "Montserrat", sans-serif;
+    color:#11999E ;
+}
+.pro{
+    text-decoration: underline;
+}
+
+
+body{
+    text-align: center;
+}
+
+.top-container{
+    background-color: #D1E9F6;
+    position: relative;
+    padding-top: 100px;
+    
+}
+.top-cloud{
+    position: absolute;
+    right: 350px;
+    top: 50px;
+    
+
+}
+.bottom-cloud{
+    position: absolute;
+    bottom: 300px;
+    left: 350px;
+  
+}
+
+.middle-container{
+    background-color: #F5EFFF;
+    position: relative;
+    padding: 200px;
+
+}
+
+
+.type{
+    position: relative;
+    display: inline-block;
+    
+}
+.type{
+    margin: 0%;
+}
+.har{
+    border-color: grey;
+     border: none;
+   
+}
+.code-img{
+    width: 200px;
+}
+.skill{
+    background-color: #F5F5F5;
+    
+    margin: 100px outo 100px outo;
+    text-align: center;
+    line-height: 2;
+ 
+}
+
+
+.computer{
+    width: 100px;
+    float: left;
+   margin-right: 30px;
+    
+}
+.chillies{
+    width: 100px;
+    float: right;
+    margin-left: 30px;
+}
+
+.cup{
+    background-color: #F5EFFF;
+    margin:0px ;
+}
